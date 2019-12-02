@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: #003965;
+  font-size: 12px;
+  font-family: 'Cambay', sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #B8B8B8;
+  background-image: url("background.png");
+}
+
+h1 {
+  color: purple;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#nav {
+  color: #ADD8E6;
+  background-color: #2F4F4F;
+  text-indent: 5px;
+  font-weight: bold;
+}
